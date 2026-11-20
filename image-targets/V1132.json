@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 113,
+    "left": 0,
+    "width": 503,
+    "height": 670,
+    "isRotated": true,
+    "originalWidth": 503,
+    "originalHeight": 898
+  },
+  "imagePath": "image-targets/V1132_luminance.jpg",
+  "metadata": null,
+  "name": "V1132",
+  "resources": {
+    "originalImage": "V1132_original.jpg",
+    "croppedImage": "V1132_cropped.jpg",
+    "thumbnailImage": "V1132_thumbnail.jpg",
+    "luminanceImage": "V1132_luminance.jpg"
+  },
+  "created": 1790197641623,
+  "updated": 1790197641623
+}
